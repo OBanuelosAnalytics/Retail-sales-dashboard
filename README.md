@@ -9,7 +9,7 @@ The objective was to analyze customer purchasing behavior, product performance, 
 
 ## Dashboard Preview
 
-
+![Retail Sales Dashboard](Retail-sales-dashboard/Images/Dashboard.png.png)
 
 ---
 
